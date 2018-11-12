@@ -22,10 +22,10 @@ Cumulative GPA: 3.78/4.00
 
 ## Honors and Awards
 
-- Frederick S. Deibler Award for Distinguished Honors Thesis (June 2017)
-*One of six students given award for writing an exemplary senior thesis*
-- Phi Beta Kappa (June 2017)
-- Excellence in Sustainability Award (March 2017)
+- Frederick S. Deibler Award for Distinguished Honors Thesis (June 2017) \\
+*One of six students given award for writing an exemplary senior thesis* \\
+- Phi Beta Kappa (June 2017) \\
+- Excellence in Sustainability Award (March 2017) \\
 *Student winner of quarterly award given to those who have displayed outstanding leadership and dedication in promoting sustainability on campus*
 - Summer Internship Grant Program Awardee (June 2015)
 *One of about 200 students awarded funding for a summer internship*
