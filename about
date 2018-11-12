@@ -1,0 +1,12 @@
+---
+layout: default
+title: About Sara Johns
+---
+
+		<div class="about">
+			<h1>About</h1>
+			<p>I received degrees in Economics and Environmental Science from Northwestern University in 2017. </p>
+			<ul class="contacts">
+				<li><a href="https://www.gsb.stanford.edu/programs/research-fellows/summary">Stanford GSB Research Fellows Program</a></li>
+				</ul>
+		</div>
