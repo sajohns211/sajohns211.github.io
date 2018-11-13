@@ -40,7 +40,7 @@ Cumulative GPA: 3.78/4.00
 
 ## Research and Work Experience
 
-**Pre-Doctoral Research Fellow | The Stanford Graduate School of Business Stanford, CA**
+**Pre-Doctoral Research Fellow** | **The Stanford Graduate School of Business -- Stanford, CA**
 
 *PI: Professor Rebecca Diamond* | *July 2018 -- Present*
 
@@ -62,7 +62,7 @@ Cumulative GPA: 3.78/4.00
 
 - Conducted regression analyses to study effects of managerial style, overtime work, and job structure on productivity and health using Stata
 
-**Research Assistant | Northwestern University Evanston, IL**
+**Research Assistant** | **Northwestern University -- Evanston, IL**
 
 *PI: Professor Mar Reguant* | *February 2017 -- June 2017*
 
@@ -70,7 +70,7 @@ Cumulative GPA: 3.78/4.00
 
 - Scraped data from California Independent System Operator (CAISO) database using Perl 
 
-**Capacity, Policy, and Finace Intern | Environmental Data and Governance Initiative Washtington, DC**
+**Capacity, Policy, and Finace Intern** | **Environmental Data and Governance Initiative -- Washtington, DC**
  
 *PI: Professor Christoper Sellers* | *December 2016 -- October 2017*
 
@@ -82,13 +82,13 @@ Cumulative GPA: 3.78/4.00
 
 - Conducted interviews to create an oral history for federal agencies
 
-**Research Assistant | Northwestern University Kellogg School of Management Evanston, IL**
+**Research Assistant** | **Northwestern University Kellogg School of Management -- Evanston, IL**
 
 *PI: Professor Razvan Lungeanu* | *November 2015 -- June 2017*
 
 - Identified, interpreted, and coded information about biotechnology companies from 424B and S-1 documents using the Securities and Exchange Commission’s EDGAR database  
 
-**GIS Analyst Intern | SoCore Energy Chicago, IL**
+**GIS Analyst Intern** | **SoCore Energy -- Chicago, IL**
 
 *Supervisor: Laura Caspari*
 
@@ -96,7 +96,7 @@ Cumulative GPA: 3.78/4.00
 
 - Researched and summarized permit requirements at state, county, and local levels and ran financial models for requests for proposals
 
-**Summer Sustainability Intern | Howard Community College Columbia, MD**
+**Summer Sustainability Intern** | **Howard Community College -- Columbia, MD**
 
 *Supervisor: Robert Marietta*
 
@@ -116,9 +116,9 @@ Cumulative GPA: 3.78/4.00
 
 ## Academic Leadership 
 
-**Students for Ecological and Environmental Development | Evanston, IL**
+**Students for Ecological and Environmental Development** | **Evanston, IL**
 
-*President (2016-2017), Outreach and Green Cup Chair (2014-2016) | October 2013 -- June 2017*
+*President (2016-2017), Outreach and Green Cup Chair (2014-2016)* | *October 2013 -- June 2017*
 
 - Coordinated organization operations and events by overseeing an 8-member executive board 
 
@@ -126,9 +126,9 @@ Cumulative GPA: 3.78/4.00
 
 - Planned and executed a month-long, 8 event competition to encourage sustainability by applying for and securing $3600 of grant funding, partnering with student groups to coordinate logistics, and establishing a system to determine energy and water use reduction
 
-**Associated Student Government | Evanston, IL**
+**Associated Student Government** | **Evanston, IL**
 
-*Sustainability Committee, Academics Project Lead | October 2013 -- June 2017*
+*Sustainability Committee, Academics Project Lead* | *October 2013 -- June 2017*
 
 - Coordinated and led meetings for students and faculty across departments to discuss current and future environmental science and sustainability curriculum
 
