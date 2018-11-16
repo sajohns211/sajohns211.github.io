@@ -136,5 +136,4 @@ Cumulative GPA: 3.78/4.00
 
 ## Skills
 
-Stata, ArcGIS, LaTEX
-R, Perl, Python
+Stata, ArcGIS, QGIS, LaTEX, R, Perl, Python
