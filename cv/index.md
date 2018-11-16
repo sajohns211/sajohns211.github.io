@@ -2,6 +2,12 @@
 layout: default
 title: Sara Johns's CV 
 ---
+
+<style>
+body { background-color: #F4F6F6
+	}
+</style>
+
 <a href="#" class="download" title="Download CV as PDF">Download CV</a>
 
 ## Sara Johns
